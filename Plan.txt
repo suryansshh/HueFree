@@ -1,0 +1,11 @@
+1 - HTML CSS JAVASCRIPT 
+2 - Decide the article for web page.
+3 - Design the wireframe of the web page.
+4 - Finalise the complete the structure with only html.
+5 - Fill in css with the respective HTML properties.
+6 - Create the button to change the css properties of the article.
+7 - Complete the javascript logic for the button.
+
+
+Further Dev
+With the use of js we store the colors of the specific website and by th use of our plugin they can change the particular colors which color blind people suffer to read to their accessable color paletts.

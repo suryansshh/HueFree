@@ -6,7 +6,7 @@
     border: none; /* remove border */
     display: flex;
     align-items: center;
-    background-color: #DDF7E3;
+    background-color: rgb(271, 233, 217);
     box-sizing: border-box; /* add box-sizing property */
   }
   
